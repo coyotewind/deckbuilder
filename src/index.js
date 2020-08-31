@@ -1,15 +1,15 @@
 import React, { useState} from 'react';
 import './index.css';
 import ReactDOM from 'react-dom';
-import axios from 'axios';
+// import axios from 'axios';
 import {
     DeckList,
     SearchBar,
     SearchResults
 } from './components';
-import {
-    fetchCards,
-} from './api';
+// import {
+//     fetchCards,
+// } from './api';
 
   
 const App = () => {
